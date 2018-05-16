@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0546bef4-4f80-472d-8668-da8fc5a7a650" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/getapost/get2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/getapost/post2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,8 +75,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="520" />
-    <option name="y" value="76" />
+    <option name="x" value="741" />
+    <option name="y" value="80" />
     <option name="width" value="850" />
     <option name="height" value="577" />
   </component>
@@ -197,15 +196,15 @@
       <option name="presentableId" value="Default" />
       <updated>1526377442304</updated>
       <workItem from="1526377446424" duration="972000" />
-      <workItem from="1526438096469" duration="6990000" />
+      <workItem from="1526438096469" duration="8760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7962000" />
+    <option name="totallyTimeSpent" value="9732000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="520" y="76" width="850" height="577" extended-state="0" />
+    <frame x="741" y="80" width="850" height="577" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
