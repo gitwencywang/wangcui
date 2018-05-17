@@ -7,6 +7,7 @@ import java.net.*;
 public class post2 {
     public static void main(String[] args){
         String url="https://g.alicdn.com/secdev/sufei_data/3.4.1/index.js";
+
         System.out.println(post(url,param,isproxy));
     }
     public static String post(String url, String param, boolean isproxy) {
@@ -19,7 +20,7 @@ public class post2 {
             if (isproxy) {// 使用代理模式
                 @SuppressWarnings("static-access")
                 Proxy proxy = new Proxy(Proxy.Type.DIRECT.HTTP,
-                        new InetSocketAddress(proxyHost, proxyPort));
+                        new InetSocketAddress("www.baidu.com", 8080));
                 conn = (HttpURLConnection) realUrl.openConnection(proxy);
             } else {
                 conn = (HttpURLConnection) realUrl.openConnection();
